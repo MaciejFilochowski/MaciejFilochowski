@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaciejFilochowski
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter and Swift
-- 📫 How to reach me Filon93@gmail.com
+- 🌱 I’m currently learning Swift and Flutter
+- 📫 How to reach me contact@filochowski.dev
 
 <!---
 MaciejFilochowski/MaciejFilochowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
